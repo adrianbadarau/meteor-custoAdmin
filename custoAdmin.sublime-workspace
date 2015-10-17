@@ -1,0 +1,909 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"configure	(router.js)"
+			],
+			[
+				"Pro",
+				"ProductImages"
+			],
+			[
+				"on",
+				"only	(navbar.html)"
+			],
+			[
+				"pars",
+				"parseInt             (fn)   [C]"
+			],
+			[
+				"new",
+				"newReview	(router.js)"
+			],
+			[
+				"bs3",
+				"bs3-panel	bs3-panel"
+			],
+			[
+				"fin",
+				"findOne	Meteor: collection.findOne(selector, [options])"
+			],
+			[
+				"na",
+				"name	(home.html)"
+			],
+			[
+				"product",
+				"productReviews	(router.js)"
+			],
+			[
+				"eve",
+				"events	Meteor: Template.myTemplate.events(eventMap)"
+			],
+			[
+				"bs3-bu",
+				"bs3-button:default	bs3-button-default"
+			],
+			[
+				"prod",
+				"productReviews	(router.js)"
+			],
+			[
+				"prdu",
+				"productReviews"
+			],
+			[
+				"fu",
+				"full	(category_products.html)"
+			],
+			[
+				"cae",
+				"category_products	(router.js)"
+			],
+			[
+				"temp",
+				"templateData"
+			],
+			[
+				"catego",
+				"category	(addReview.html)"
+			],
+			[
+				"cate",
+				"category_products"
+			],
+			[
+				"pro",
+				"productImg	(addReview.js)"
+			],
+			[
+				"min",
+				"min (fn) [C]"
+			],
+			[
+				"Ma",
+				"Math  (obj) [C]"
+			],
+			[
+				"cre",
+				"createdAt"
+			],
+			[
+				"sen",
+				"sendSuccess (fn) [C]"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"F",
+				"File (fn) [C]"
+			],
+			[
+				"value",
+				"value	(addReview.html)"
+			],
+			[
+				"is",
+				"is_featured"
+			],
+			[
+				"add",
+				"addReview"
+			],
+			[
+				"Ca",
+				"Categories               (obj) [E]"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"tem",
+				"templateData"
+			],
+			[
+				"te",
+				"templateData"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"fi",
+				"find    (fn) [S]"
+			],
+			[
+				"Profi",
+				"ProfileImages	(collections.js)"
+			],
+			[
+				"find",
+				"find	Meteor: collection.find(selector, [options])"
+			],
+			[
+				"Mete",
+				"Meteor.users	Meteor.users"
+			],
+			[
+				"Post",
+				"Posts (obj) [C]"
+			],
+			[
+				"Sim",
+				"SimpleSchema                  (fn)  [E]"
+			],
+			[
+				"im",
+				"imgLoc"
+			],
+			[
+				"Profile",
+				"ProfileImages"
+			],
+			[
+				"fil",
+				"file"
+			],
+			[
+				"profile",
+				"profileImage"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"Meteor",
+				"Meteor.user	Meteor.user()"
+			],
+			[
+				"user",
+				"userId	Meteor: this.userId"
+			],
+			[
+				"su",
+				"subscribe   (fn) [C]"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"setCh",
+				"setChecked"
+			],
+			[
+				"set",
+				"setChecked"
+			],
+			[
+				"Todo",
+				"Todos"
+			],
+			[
+				"use",
+				"userId	Meteor: this.userId"
+			],
+			[
+				"confi",
+				"confirm (fn) [C]"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"line",
+				"line-through"
+			],
+			[
+				"to",
+				"toggle	(todoList.html)"
+			],
+			[
+				"todo",
+				"todoForm	(todoList.html)"
+			],
+			[
+				"lis",
+				"lis-n	list-style: none;"
+			],
+			[
+				"Mo",
+				"Mongo.Collection	new Mongo.Collection(name, [options])"
+			],
+			[
+				"Mongo",
+				"Mongo.Collection	new Mongo.Collection.ObjectID(hexString)"
+			],
+			[
+				"pa",
+				"party"
+			],
+			[
+				"par",
+				"partyId"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"$root",
+				"$rootScope"
+			],
+			[
+				"get",
+				"getUserById"
+			],
+			[
+				"crea",
+				"creator	(party-details.ng.html)"
+			],
+			[
+				"mo",
+				"angular.module"
+			],
+			[
+				"sea",
+				"searchString"
+			],
+			[
+				"se",
+				"searchString"
+			],
+			[
+				"d",
+				"data	Meteor: this.data"
+			],
+			[
+				"o",
+				"orderProperty"
+			],
+			[
+				"page",
+				"pageChanged	(parties-list.ng.html)"
+			],
+			[
+				"Pa",
+				"Parties    (obj) [C]"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"Me",
+				"Meteor.users	Meteor.users"
+			],
+			[
+				"pu",
+				"publicCHB"
+			],
+			[
+				"elemen",
+				"angular.element"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "das",
+		"selected_items":
+		[
+			[
+				"das",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"gitA",
+				"Git: Add..."
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"git:p",
+				"Git: Pull"
+			],
+			[
+				"git:c",
+				"Git: Commit"
+			],
+			[
+				"gitsta",
+				"Git: Status"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"HTM",
+				"Set Syntax: HTML"
+			],
+			[
+				"form-",
+				"Snippet: bs3-form-label"
+			],
+			[
+				"col",
+				"Snippet: bs3-col-12"
+			],
+			[
+				"row",
+				"Snippet: bs3-row"
+			],
+			[
+				"conta",
+				"Snippet: bs3-container"
+			],
+			[
+				"format",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"new",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"addfol",
+				"Project: Add Folder"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git:comm",
+				"Git: Commit"
+			],
+			[
+				"git:add",
+				"Git: Add..."
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"githu",
+				"Github: Repository"
+			],
+			[
+				"for",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"format js",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"ter",
+				"Terminal: Open in project folder"
+			],
+			[
+				"paka",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 800.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/adrianbadarau/Code/Meteor/custoAdmin/client/stylesheets/main.css",
+		"/Users/adrianbadarau/Code/Meteor/custoAdmin/lib/router.js",
+		"/Users/adrianbadarau/Code/Meteor/custoAdmin/client/templates/register/register.html",
+		"/Users/adrianbadarau/Code/Meteor/custoAdmin/client/templates/login/login.html",
+		"/Users/adrianbadarau/Code/Meteor/custoAdmin/server/common.js",
+		"/Users/adrianbadarau/Code/Meteor/custoAdmin/custoAdmin.sublime-project",
+		"/Users/adrianbadarau/Code/Meteor/custoAdmin/client/templates/main.html",
+		"/Users/adrianbadarau/Code/Meteor/custoAdmin/client/common.js",
+		"/Users/adrianbadarau/Library/Application Support/Sublime Text 3/Packages/DashDoc/DashDoc.sublime-settings",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/lib/router.js",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/lib/collections.js",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/server/common.js",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/common.js",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/addProduct/addProduct.js",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/lib/methods.js",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/newReview/newReview.js",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/includes/includes.js",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/productReviews/productReviews.html",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/includes/navbar.html",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/category_products/category_products.html",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/products/products.html",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/productReviews/productReviews.js",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/home/home.html",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/newReview/newReview.html",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/addProduct/addProduct.html",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/addReview/addReview.html",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/addReview/addReview.js",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/category_products/category_products.js",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/layout.html",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/stylesheets/main.css",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/products/products.js",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/includes/sydebar.html",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/includes/footer.html",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/includes/navbar.js",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/includes/head.html",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/lib/common.js",
+		"/Users/adrianbadarau/Code/Meteor/custoReview/client/templates/home/home.js",
+		"/Users/adrianbadarau/.homestead/Homestead.yaml",
+		"/Users/adrianbadarau/Code/Meteor/CustoFAQ/lib/collections.js",
+		"/Users/adrianbadarau/Code/Meteor/CustoFAQ/client/templates/layout.html",
+		"/Users/adrianbadarau/Code/Meteor/CustoFAQ/server/common.js",
+		"/Users/adrianbadarau/Code/Meteor/CustoFAQ/client/templates/questions/questions.html",
+		"/Users/adrianbadarau/Code/Meteor/CustoFAQ/client/templates/questions/questions.js",
+		"/Users/adrianbadarau/Code/Meteor/CustoFAQ/client/stylesheets/faq.css",
+		"/Users/adrianbadarau/Code/Meteor/CustoFAQ/client/templates/navbar.html",
+		"/Users/adrianbadarau/Code/Meteor/CustoFAQ/client/templates/head.html",
+		"/Users/adrianbadarau/Code/Meteor/CustoFAQ/lib/router.js",
+		"/Users/adrianbadarau/Code/Meteor/CustoFAQ/client/common.js",
+		"/Users/adrianbadarau/Code/Meteor/CustoMiniPosts/client/templates/posts/posts.html",
+		"/Users/adrianbadarau/Code/Meteor/CustoMiniPosts/client/common.js",
+		"/Users/adrianbadarau/Code/Meteor/CustoMiniPosts/server/common.js",
+		"/Users/adrianbadarau/Code/Meteor/CustoMiniPosts/lib/collections.js",
+		"/Users/adrianbadarau/Code/Meteor/CustoMiniPosts/client/templates/posts/posts.js",
+		"/Users/adrianbadarau/Code/Meteor/CustoMiniPosts/client/templates/profile/profile.html",
+		"/Users/adrianbadarau/Code/Meteor/CustoMiniPosts/client/templates/profile/profile.js",
+		"/Users/adrianbadarau/Code/Meteor/CustoMiniPosts/client/templates/navbar.html",
+		"/Users/adrianbadarau/Code/Meteor/CustoMiniPosts/client/stylesheets/main.css",
+		"/Users/adrianbadarau/Code/Meteor/CustoMiniPosts/client/templates/layout.html",
+		"/Users/adrianbadarau/Code/Meteor/CustoMiniPosts/lib/router.js",
+		"/Users/adrianbadarau/Code/Meteor/CustoMiniPosts/client/templates/about/about.js",
+		"/Users/adrianbadarau/Code/Meteor/CustoMiniPosts/client/templates/about/about.html",
+		"/Users/adrianbadarau/Code/Meteor/CustoMiniPosts/client/templates/head.html",
+		"/Users/adrianbadarau/Code/Meteor/CustoMiniPosts/client/templates/userposts/userposts.js",
+		"/Users/adrianbadarau/Code/Meteor/CustoMiniPosts/client/templates/userposts/userposts.html",
+		"/Users/adrianbadarau/Code/Meteor/CustoMiniPosts/server/cummon.js",
+		"/Users/adrianbadarau/Code/Meteor/todoList/todoList.js",
+		"/Users/adrianbadarau/Code/Meteor/todoList/todoList.css",
+		"/Users/adrianbadarau/Code/Meteor/todoList/todoList.html",
+		"/Users/adrianbadarau/Code/SocialMarket/client/parties/styles/parties.import.less",
+		"/Users/adrianbadarau/Code/SocialMarket/client/lib/app.js",
+		"/Users/adrianbadarau/Code/SocialMarket/client/parties/views/add-new-party-modal.ng.html",
+		"/Users/adrianbadarau/Code/SocialMarket/client/parties/controllers/addNewParty.js",
+		"/Users/adrianbadarau/Code/SocialMarket/client/styles/main.less",
+		"/Users/adrianbadarau/Code/SocialMarket/client/parties/controllers/addPhoto.js",
+		"/Users/adrianbadarau/Code/SocialMarket/client/parties/controllers/partiesList.js",
+		"/Users/adrianbadarau/Code/SocialMarket/model/images.js",
+		"/Users/adrianbadarau/Code/SocialMarket/client/index.html",
+		"/Users/adrianbadarau/Code/SocialMarket/client/parties/views/parties-list.ng.html",
+		"/Users/adrianbadarau/Code/SocialMarket/client/parties/views/party-details.ng.html",
+		"/Users/adrianbadarau/Code/SocialMarket/client/parties/controllers/partyDetails.js",
+		"/Users/adrianbadarau/Code/SocialMarket/client/parties/styles/parties.css",
+		"/Users/adrianbadarau/Code/SocialMarket/model/parties.js",
+		"/Users/adrianbadarau/Code/SocialMarket/server/parties.js",
+		"/Users/adrianbadarau/Code/SocialMarket/client/parties/filters/displayName.js",
+		"/Users/adrianbadarau/Code/SocialMarket/client/parties/filters/uninvited.js",
+		"/Users/adrianbadarau/Code/SocialMarket/client/parties/filters/displayname.js",
+		"/Users/adrianbadarau/Code/web-dev-circle/Session (3)/client.html",
+		"/Users/adrianbadarau/Code/web-dev-circle/Session (3)/peerjs/dist/peer.min.js",
+		"/Users/adrianbadarau/Code/webDev/peerjs/peer.js",
+		"/Users/adrianbadarau/Code/webDev/client.html",
+		"/Users/adrianbadarau/Code/SocialMarket/server/users.js",
+		"/Users/adrianbadarau/Code/SocialMarket/server/untitled",
+		"/Users/adrianbadarau/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/adrianbadarau/Library/Application Support/Harebrained Schemes/Shadowrun Returns/Saves/008ae4dbeafd482aa5e5680316f64462.sav",
+		"/Users/adrianbadarau/Library/Application Support/Harebrained Schemes/Shadowrun Returns/Saves/30c0c8d496e34462a38be302790b30af.sav",
+		"/Users/adrianbadarau/Library/Application Support/Harebrained Schemes/Shadowrun Returns/Saves/autosave.sav",
+		"/Volumes/ExtendedStorage/TorrentsDownload/Starbound/starbound.config",
+		"/Users/adrianbadarau/Documents/config",
+		"/Users/adrianbadarau/Homestead/Homestead.yaml",
+		"/curl -X POST -H \"Content-Type: application:json\" h",
+		"/Users/adrianbadarau/Desktop/index.html",
+		"/Users/adrianbadarau/Desktop/untitled.js",
+		"/Users/adrianbadarau/Desktop/templateMultyPic.html",
+		"/Volumes/ExternalMem/CardDownloads/From.Dusk.Till.Dawn.S02E01.720p.HDTV.x264-BATV/from.dusk.till.dawn.s02e01.720p.hdtv.x264-batv.nfo",
+		"/Users/adrianbadarau/Downloads/evomag_lite.sql",
+		"/Users/adrianbadarau/www/evomag/framework/i18n/data/to_to.php",
+		"/Users/adrianbadarau/Downloads/Navicat Premium Enterprise 9.1.0 Intel/CORE.NFO",
+		"/Users/adrianbadarau/Downloads/httpauth-1.0/HttpAuthFilter.php",
+		"/Applications/mampstack-5.5.28-0/apache2/conf/extra/httpd-vhosts.conf",
+		"/Applications/mampstack-5.5.28-0/frameworks/laravel/composer.json",
+		"/Applications/mampstack-5.5.28-0/frameworks/laravel/readme.md",
+		"/Applications/mampstack-5.5.28-0/apache2/conf/httpd.conf"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1",
+			">\n",
+			"// Categories\nCategories = new Mongo.Collection('Categories');\n\n",
+			"64x64",
+			"\">",
+			"\n    - map: homestead.app\n      to: /home/vagrant/Code/blog/public",
+			"myModal",
+			");\n",
+			";\n",
+			"');\n",
+			"log",
+			"owner",
+			"}}\n",
+			"EOT",
+			"CAN",
+			"EOT",
+			"s5h7c6b9c6ˆEOT",
+			"   \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"postModal"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "custoAdmin.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"col",
+				"lib/collections.js"
+			],
+			[
+				"inc",
+				"client/templates/includes/includes.js"
+			],
+			[
+				"add",
+				"client/templates/addProduct/addProduct.js"
+			],
+			[
+				"rou",
+				"lib/router.js"
+			],
+			[
+				"route",
+				"lib/router.js"
+			],
+			[
+				"lib/c",
+				"lib/collections.js"
+			],
+			[
+				"home",
+				"client/templates/home/home.html"
+			],
+			[
+				"coll",
+				"lib/collections.js"
+			],
+			[
+				"sidebar",
+				"client/templates/includes/sydebar.html"
+			],
+			[
+				"co",
+				"lib/collections.js"
+			],
+			[
+				"pos",
+				"client/templates/posts/posts.html"
+			],
+			[
+				"post",
+				"client/templates/posts/posts.js"
+			],
+			[
+				"pro",
+				"client/templates/profile/profile.html"
+			],
+			[
+				"prof",
+				"client/templates/profile/profile.js"
+			],
+			[
+				"nav",
+				"client/templates/navbar.html"
+			],
+			[
+				"lay",
+				"client/templates/layout.html"
+			],
+			[
+				"",
+				"todoList.js"
+			],
+			[
+				"to",
+				"todoList.js"
+			],
+			[
+				"main",
+				"client/styles/main.less"
+			],
+			[
+				"app",
+				"client/lib/app.js"
+			],
+			[
+				"pali",
+				"client/parties/controllers/partiesList.js"
+			],
+			[
+				"parde",
+				"client/parties/controllers/partyDetails.js"
+			],
+			[
+				"party",
+				"client/parties/views/party-details.ng.html"
+			],
+			[
+				"par-de",
+				"client/parties/views/party-details.ng.html"
+			],
+			[
+				"par",
+				"model/parties.js"
+			],
+			[
+				"pa",
+				"client/parties/controllers/partyDetails.js"
+			],
+			[
+				"par-lis",
+				"client/parties/views/parties-list.ng.html"
+			],
+			[
+				"parties",
+				"client/parties/controllers/partiesList.js"
+			],
+			[
+				"parli",
+				"client/parties/controllers/partiesList.js"
+			],
+			[
+				"parti",
+				"client/parties/controllers/partiesList.js"
+			],
+			[
+				"part",
+				"server/parties.js"
+			],
+			[
+				"parl",
+				"client/parties/controllers/partiesList.js"
+			],
+			[
+				"partie",
+				"server/parties.js"
+			],
+			[
+				"partyd",
+				"client/parties/controllers/partyDetails.js"
+			],
+			[
+				"partiesls",
+				"client/parties/controllers/partiesList.js"
+			],
+			[
+				"inde",
+				"client/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

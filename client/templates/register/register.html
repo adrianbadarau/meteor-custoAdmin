@@ -1,0 +1,23 @@
+<template name="register">
+  <form class="form-signup">
+    <h2 class="form-signin-heading">CustoAdmin Login</h2>
+    <label for="first_name" class="sr-only">First Name</label>
+    <input type="text" name="first_name" id="first_name" class="form-control" placeholder="First Name" autofocus>
+    <label for="inputPassword" class="sr-only">Last Name</label>
+    <input type="text" name="last_name" id="last_name" class="form-control" placeholder="Last Name" autofocus>
+    <label for="inputEmail" class="sr-only">Email address</label>
+    <input type="email" name="email" id="email" class="form-control" placeholder="Email address" autofocus>
+    <label for="inputPassword" class="sr-only">Password</label>
+    <input type="password" name="password" id="password" class="form-control" placeholder="Password">
+    <label for="password2" class="sr-only">Password confirmation</label>
+    <input type="password" name="password2" id="password2" class="form-control" placeholder="Password Confirm">
+    <div class="checkbox">
+      <label>
+        <input type="checkbox" value="remember-me"> Remember me
+      </label>
+    </div>
+    <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+    <hr>
+    <p>No account? <a href="/register">Register NOW</a></p>
+  </form>
+</template>
